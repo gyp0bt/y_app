@@ -1,0 +1,23 @@
+
+[
+    {
+        "model": "main.yuser",
+        "pk": 3,
+        "fields": {
+            "username": "john_doe1",
+            "password": "pass",
+            "email": "john@example.com",
+            "is_active": true
+        }
+    },
+    {
+        "model": "main.yuser",
+        "pk": 4,
+        "fields": {
+            "username": "jane_doe2",
+            "password": "pass",
+            "email": "jane@example.com",
+            "is_active": true
+        }
+    }
+]

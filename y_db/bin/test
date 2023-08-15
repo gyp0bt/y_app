@@ -1,0 +1,2 @@
+echo -e '\033c'
+python manage.py test
